@@ -30,6 +30,7 @@ nav {
     z-index: 100;
 }
 #header-menu li a {
+	font-size: 32px;
     color: #fff;      /* 文字色を白に */
 }
 li a{
@@ -110,4 +111,5 @@ ul:not(#header-menu) {
   margin-bottom: 8px;
 　margin-top: 0;
 }
+
 
