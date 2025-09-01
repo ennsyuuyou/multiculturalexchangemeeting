@@ -93,16 +93,13 @@ ul:not(#header-menu) {
 }
 .wtf, .jpug {
   display: block;
-  margin: 0;
+  margin: 0 auto;
 }
 .qr-container {
   display: flex;
   justify-content: center;
-  gap: 160px;
-  font-weight: bold;
-  font-size: 16px;
-  margin-bottom: 8px;
-　margin-bottom: 0;
+  gap: 40px;
+  margin-bottom: 0;
 }
 .k4sen{
   display: flex;
@@ -113,3 +110,4 @@ ul:not(#header-menu) {
   margin-bottom: 8px;
 　margin-top: 0;
 }
+
