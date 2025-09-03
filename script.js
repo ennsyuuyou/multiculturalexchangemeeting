@@ -1,7 +1,7 @@
 const menu = document.querySelector('#header-menu')
 const btn = document.querySelector('#hamburger')
 
-btn.addEventListener('click', () => {
+btn.addEventListener('click', () => { /*ハンバーガーメニューを押したとき選択肢が出る構造*/
   btn.classList.toggle('open')
   menu.classList.toggle('open')
   if(menu.classList.contains("open")){
@@ -9,4 +9,5 @@ btn.addEventListener('click', () => {
   }else{
     menu.style.height = "0"
   }
+
 })
