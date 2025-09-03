@@ -125,6 +125,10 @@ ul:not(#header-menu) {
 .btn-register:hover {
   background: #e65c00;
 }
+body {
+  background: linear-gradient(to bottom, #e6f2ff, #f0f8ff);
+}
+
 
 
 
