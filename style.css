@@ -6,6 +6,10 @@ h2.queen {
     text-align: center !important;
     font-weight: bold !important;
 }
+.king {
+    text-align: center !important;
+    font-weight: bold !important;
+}
 body {
     background-color: #efefef;
 }
@@ -134,6 +138,7 @@ body {
   padding-left: 2.4em; /* 同じく調整 */
   white-space: normal;
 }
+
 
 
 
